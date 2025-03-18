@@ -39,7 +39,7 @@ body {
     align-items: center;
     flex-direction: column;
     width: 350px;
-    /* height: 500px; */
+    height: 450px;
     padding: 25px;
     background-color: var(--white);
     border-radius: 12px;
@@ -61,7 +61,35 @@ body {
     height: 20px;
 }
 
-img {
-    width: 180px;
-    /* height: 200px; */
+.card__profile-photo {
+    border-radius: 100%;
+    overflow: hidden;
+    border: 5px solid var(--green);
+    margin-bottom: 10px;
 }
+
+.card__profile-photo img {
+    width: 180px;
+    height: 100%;
+}
+
+.card__profile-data {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.card__profile-data h2 {
+    font-size: 1.5rem;
+    color: var(--black);
+}
+
+.card__profile-data p {
+    font-size: 1.2rem;
+    letter-spacing: 1px;
+    color: var(--gray);
+    font-weight: 500;
+}
+
