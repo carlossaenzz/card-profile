@@ -1,26 +1,26 @@
-##📌 Card Profile - Tarjeta de perfil
+## Card Profile - Tarjeta de perfil
 
-###💡 Descripción
+### Descripción
 
 "Card Profile" es una tarjeta de perfil interactiva creada con HTML y CSS. Está diseñada para mostrar la información de un usuario, incluyendo su foto de perfil, nombre, profesión y habilidades. Más adelante, se añadirá funcionalidad con JavaScript.
 
-###🚀 Tecnologías utilizadas
+### Tecnologías utilizadas
 
 - `HTML5`: para la estructura del contenido.
 
 - `CSS3`: para los estilos y los diseños personalizados.
 
-###🔧 Herramientas Utilizadas 
+### Herramientas Utilizadas 
 - **Pexels** para la imagen o foto de perfil.
 - **Flaticon** para los iconos.
 - **Google Fonts**: para una mejor tipografia.
 
 
-###📸 Captura de pantalla
+### Captura de pantalla
 
 ![Card Profile](assets/card-profile.png)
 
-###🎯 Características
+### Características
 
  ✔Diseño moderno y adaptable
 
@@ -30,7 +30,7 @@
 
 ✔Distribución flexible de elementos con flexbox
 
-###📦 Instalación y uso
+### Instalación y uso
 
 Clona este repositorio en tu computadora:
 
@@ -40,7 +40,7 @@ git clone https://github.com/carlossaenzz/card-profile.git
 
 Abre el archivo index.html en tu navegador.
 
-###🔧 Mejoras futuras
+### Mejoras futuras
 
 ✔Agregar interactividad con JavaScript
 
